@@ -1,0 +1,26 @@
+/educa-platform/
+├── index.html
+├── courses.html
+├── lessons.html
+├── tests.html
+├── rating.html
+├── dashboard.html
+├── certificates.html
+├── about.html
+├── contact.html
+├── blog.html
+├── faq.html
+├── terms.html
+├── privacy.html
+├── login.html
+├── register.html
+├── payment.html
+├── css/
+│   ├── style.css
+│   └── responsive.css
+├── js/
+│   └── main.js
+└── images/
+    ├── course-civil.jpg
+    ├── course-electrical.jpg
+    └── course-software.jpg  (يمكنك إضافة الصور لاحقًا)
